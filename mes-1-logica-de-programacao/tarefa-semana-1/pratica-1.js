@@ -1,4 +1,4 @@
-const nome = "Erick marques Rodrigues"
+ constnome = "Erick marques Rodrigues"
 const email ="erick.marquesrodrigues7@hotmail.com"
 const profissao ="Vendedor/ varejo"
 const idade = 30
