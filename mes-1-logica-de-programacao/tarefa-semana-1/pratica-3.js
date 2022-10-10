@@ -1,8 +1,8 @@
 const nome = "Erick marques Rodrigues" == "Erick marques Rodrigues"
 const email ="erick.marquesrodrigues7@hotmail.com" =="erick.marquesrodrigues7@hotmail.com"
-const profissao ="Vendedor/ varejo" == "Vendedor/ varejo"
+const profissao ="Vendedor" == "Vendedor"
 const idade = 30 ==""
-const lugar ="tenho a vontade de conhecer a Alemanha" == "tenho a vontade de conhecer a Alemanha"
+const lugar ="Alemanha" == "Alemanha"
 
 console.log (nome)
 console.log(email)

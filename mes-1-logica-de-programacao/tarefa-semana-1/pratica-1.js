@@ -1,8 +1,8 @@
  constnome = "Erick marques Rodrigues"
 const email ="erick.marquesrodrigues7@hotmail.com"
-const profissao ="Vendedor/ varejo"
+const profissao ="Vendedor"
 const idade = 30
-const lugar ="tenho a vontade de conhecer a Alemanha"
+const lugar ="Alemanha"
 
 console.log(typeof (nome))
 console.log(typeof (email))
