@@ -10,9 +10,6 @@ está funcionando
 Por fim, o de sempre, faça o commit do seu código e suba ele no seu GitHub */
 
 
-    
-
-
 function gerarNumeroAl() {
     const min = 0
     const max = 10000
