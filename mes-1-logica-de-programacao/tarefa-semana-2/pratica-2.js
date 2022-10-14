@@ -39,7 +39,7 @@ let e = "Rua Eliza 26, centro são bernardo do campo sp";
 confirmacao(p,a,e);
 
 function saldacao(nomeEmail){
-    console.log("Atenciosamen   " +"\n   "+ nomeEmail);
+    console.log("Atenciosamente   " +"\n   "+ nomeEmail);
 }
 let C = "José"
 
