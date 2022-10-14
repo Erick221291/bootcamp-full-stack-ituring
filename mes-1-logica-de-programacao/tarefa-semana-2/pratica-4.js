@@ -17,7 +17,7 @@ Por fim, o de sempre, faça o commit do seu código e suba ele no seu GitHub*/
 function ValorComDesconto(valorReais , percentual){
     const desconto = valorReais * percentual;
     const valorFinal = valorReais - desconto;
-    console.log(`Valor Total: R$${valorReais} \nValor Total com desconto: R$${valorFinal.toFixed(2)}`);
+    console.log(`Valor Total: ${valorReais.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })} \nValor Total com desconto: ${valorFinal.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`);
 }
 
 let r = 300.50;
