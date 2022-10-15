@@ -24,4 +24,3 @@ let r = 300.50;
 let p = 0.25;
 
 ValorComDesconto(r ,p);
-
