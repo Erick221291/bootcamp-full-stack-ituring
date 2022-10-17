@@ -7,7 +7,8 @@ let saudacao = function(nome){
 
     }else if(nome == "pt"){
         console.log("Olá mundo!");
-    }else
+    }else{
        console.log("Olá mundo!");
-}     
+}  
+}   
 saudacao("pt");
