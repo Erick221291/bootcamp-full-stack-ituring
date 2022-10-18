@@ -1,11 +1,11 @@
 let saudacao = function(nome){
-    if(nome == "en" ){
+    if (nome == "en" ){
         console.log("Hellow world!");
 
-    }else if(nome == "es"){
+    }else if (nome == "es"){
         console.log("Hola mundo");
 
-    }else if(nome == "pt"){
+    }else if (nome == "pt"){
         console.log("Olá mundo!");
     }else{
        console.log("Olá mundo!");
