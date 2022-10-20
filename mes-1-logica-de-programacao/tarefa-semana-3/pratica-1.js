@@ -5,5 +5,4 @@ function taboadaMultiplicacao(x){
        i++
     }
 }
-
 taboadaMultiplicacao(7);
