@@ -1,11 +1,11 @@
 function numeroPrimo(numero){
     let primo = true
-    for(let contador = 2;contador < numero;contador++){
-       if(numero % contador === 0){
+    for(let i= 2;i < numero;i++){
+       if(numero % i === 0){
         primo = false
         console.log("false")
        break;
-    }         
+      }         
     }
     if(primo == true){
         console.log("true");
