@@ -1,5 +1,5 @@
 function exibirlista(lista){
-    for(let i =0; i<lista.length; i++){
+    for( i =0; i<lista.length; i++){
         console.log(`[${i}] `+ lista[i])
     }
 }
