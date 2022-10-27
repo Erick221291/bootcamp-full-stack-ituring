@@ -6,9 +6,9 @@ function buscarSeriado(p){
 
 function pesquisaSerie(pa){
     let n =buscarSeriado(pa);
-    if(n==n)
-    console.log(`Serie pesquisada se encontra na posição [${n}].`);
-    if(n==-1)
-    console.log(undefined);
+    if(n >= 0)
+      return`Serie pesquisada se encontra na posição [${n}].`;
+    if(n <= 0)
+     return undefined;
 }
-pesquisaSerie("Stranger Th");
+console.log(pesquisaSerie("Breaking Bd"));
