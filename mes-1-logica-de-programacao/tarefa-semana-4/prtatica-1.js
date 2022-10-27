@@ -5,7 +5,6 @@ function exibirlista(lista){
         
     }
 
-
 let lista =["Breaking Bad", "Game of Thrones", "Stranger Things", "Chernobyl", "Dexter", "The Last Dance", "This is Us"]
 exibirlista(lista);
 
